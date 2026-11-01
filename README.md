@@ -8,7 +8,8 @@ Screenshots
 
 Login Page: <img width="1494" height="922" alt="image" src="https://github.com/user-attachments/assets/c75845ba-db99-4bb2-a7a1-4236d54d7f6f" />
 
-Main Dashboard: <img width="1494" height="922" alt="image" src="https://github.com/user-attachments/assets/c25d3bfe-343b-4ec8-8793-b029fcc56187" />
+Main Dashboard: <img width="1723" height="1012" alt="image" src="https://github.com/user-attachments/assets/f081f432-3332-4b0c-b293-3705be13403d" />
+
 
 Features
 Tutor Authentication: Secure account registration and login using Supabase.
